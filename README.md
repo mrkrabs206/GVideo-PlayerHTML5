@@ -3,6 +3,8 @@ A recreation of the Google Video player (2006-2010) in HTML5!
 
 WARNING: It's in alpha developement and please submit issues for any bugs
 
+To install it, open the **Install.txt** file
+ 
 What does it work:
 Video lengths
 Play/Pause button
