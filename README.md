@@ -16,6 +16,7 @@ Google Video main button
 What needs updating:
 Volume control
 Certain hovered buttons (play/pause, fullscreen and GVideo main button)
+Scrubber
 
 What support will be added:
 YT2009
