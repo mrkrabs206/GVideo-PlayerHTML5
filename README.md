@@ -1,5 +1,5 @@
-# GVideo-Player_ForYT2009
-A recreation of the Google Video player (2006-2010) in HTML5 for any YT2009 instance!
+# GVideo-PlayerHTML5
+A recreation of the Google Video player (2006-2010) in HTML5!
 
 WARNING: It's in alpha developement and please submit issues for any bugs
 
@@ -9,7 +9,13 @@ Play/Pause button
 Scrubber
 Volume control
 Fullscreen
-Google Video main button (possibly)
+
+What does not work:
+Google Video main button
 
 What needs updating:
 Volume control
+Certain hovered buttons (play/pause, fullscreen and GVideo main button)
+
+What support will be added:
+YT2009
