@@ -24,3 +24,5 @@ Scrubber
 
 What support will be added:
 YT2009
+
+Credit goes to: @CubeFun!
